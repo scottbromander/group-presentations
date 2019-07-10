@@ -82,7 +82,7 @@ This should be a more polished pass. If you've hit the above stuff and soaked in
 - More styles.
 
 
-### 2nd Pass (Monday)
+### Third Pass (Monday)
 
 This is the final dress rehersal. We expect it pretty polished at this point.
 
